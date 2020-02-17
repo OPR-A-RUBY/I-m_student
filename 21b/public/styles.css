@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+}
+
+/* bootstrap - tweeter ... */
+
+h1 {
+    background: Yellow;
+    color: Blue;
+}
+
+h2 {
+    background: lightblue;
+    color: Red;
+}
+
+.somephing {
+    color: Blue;
+}
