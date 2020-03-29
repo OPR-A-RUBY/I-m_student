@@ -1,6 +1,6 @@
 # coding: utf-8
 # 
-system('clear') # Linux 
+system('clear') # Linux only
 
 arrPeople = %w[bob mihail simon jessie jon tim walt]
 
