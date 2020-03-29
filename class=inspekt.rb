@@ -1,6 +1,6 @@
 # encoding utf-8
 # 
-# Способ проверить 
+# Способ проверить объект
 #  
 class Something
     
