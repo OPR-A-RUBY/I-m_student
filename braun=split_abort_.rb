@@ -1,6 +1,6 @@
 # coding: utf-8
 # 
-# system('reset') # Linux
+# system('reset') # Windows
 system('clear') # Linux
 
 print "Пожалуйста, введите температуру и шкалу (C или F): "

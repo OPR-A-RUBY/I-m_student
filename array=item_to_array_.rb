@@ -1,5 +1,5 @@
 # coding: utf-8
-# Угадай число
+# Элемент в массив
 system('clear') # Linux 
 
 arr = []
