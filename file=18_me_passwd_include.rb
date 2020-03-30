@@ -5,9 +5,9 @@
 passwords = []
 
 input = File.open "password.txt", "r"
-while (line = input.gets)
+    while (line = input.gets)
             passwords << line.chomp!
-        end
+    end
 input.close
 
 puts "BD = #{passwords.size} elements." 

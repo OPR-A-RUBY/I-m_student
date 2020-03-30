@@ -1,5 +1,5 @@
 # coding: utf-8
-# Угадай число
+# 
 system('clear') # Linux 
 
 arrPeople = ["bob", "mihail", "jon", "simon", "jessie", "tim", "walt"]
