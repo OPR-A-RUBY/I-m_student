@@ -7,7 +7,7 @@ passwords = []
 input = File.open "password.txt", "r"
 while (line = input.gets)
             passwords << line.chomp!
-        end
+end
 input.close
 
 puts "BD = #{passwords.size} elements." 
@@ -19,7 +19,7 @@ loop do
     
     break if me_password == ''
     
-    weak = false
+    weak = false                        # Присваиваем флагу "слабый" (weak) значение "ложь"
     
     passwords.each do |item|
            
