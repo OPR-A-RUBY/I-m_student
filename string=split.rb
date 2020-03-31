@@ -18,9 +18,9 @@ def parse_orders_line order_line
         id  = s3[1]
         cnt = s2[1]
 
-        arr2 = [id, cnt]
+        sub_arr = [id, cnt]
 
-        arr.push arr2
+        arr.push sub_arr
         
     end
     
