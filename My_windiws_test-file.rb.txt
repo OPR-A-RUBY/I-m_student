@@ -1,0 +1,3 @@
+# Моя первая строчка кода Ruby на Windiws
+
+puts 'First code line'
